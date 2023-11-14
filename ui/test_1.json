@@ -1,0 +1,149 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            21
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            97, 
+                            11, 
+                            19, 
+                            255
+                        ]
+                    }, 
+                    "name": "\u4efb\u52a1\u63cf\u8ff0", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            142.0, 
+                            46.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            54.406130268199234, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            208.0, 
+                            64.00003051757812
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5230\u8fbe\u8fdc\u53e4\u6218\u573a\uff0c\u51fb\u8d25\u654c\u4eba\u593a\u56de\u5b9d\u7269", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "typewriter_effect": 1, 
+                    "typewriter_space": 0.1, 
+                    "uid": "bfd4c187-578c-422c-9294-2a327866f1a9"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            20
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            97, 
+                            11, 
+                            19, 
+                            255
+                        ]
+                    }, 
+                    "name": "\u4efb\u52a1\u5b8c\u6210", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            157.0, 
+                            46.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            60.15325670498084, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            208.0, 
+                            64.00003051757812
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u4efb\u52a1\u5b8c\u6210", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "typewriter_effect": 1, 
+                    "typewriter_space": 0.1, 
+                    "uid": "17538f1c-3f45-4139-9746-cac784abefc1", 
+                    "visible": false
+                }
+            ], 
+            "event_list": [], 
+            "image": 132974, 
+            "name": "\u4efb\u52a1\u680f", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    594.5, 
+                    631.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    30.963541666666668, 
+                    58.425925925925924
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    261.0, 
+                    92.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "ebf509b8-3736-40f7-91bb-2d7b1fdf8a74"
+        }
+    ], 
+    "name": "test_1", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "9a33ac10-50a5-41e4-9d76-edccc4c74f53", 
+    "visible": false, 
+    "zorder": 400
+}
